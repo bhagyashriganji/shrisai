@@ -1,0 +1,36 @@
+.relative-css{
+	width: 200px;
+	height: 200px;
+	position: relative;
+	 border: 3px solid #73AD21;
+	
+	top: 10px;
+	 left: 900px;
+}
+.absolute-css{
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	 border: 3px solid dodgerblue;
+	 top: 50px;
+	 left: 50px;
+}
+.fixed-css{
+	width: 200px;
+	height: 200px;
+	position: fixed;
+	 border: 3px solid red;
+	 top: 400px;
+	 left: 500px;
+}
+.sticky-css{
+	width: 80%;
+	height: 40px;
+	position: sticky;
+	 border: 3px solid blue;
+	 top: 0px;
+	left: 100px;
+	text-align: center;
+	background-color: rgba(255, 255, 200, 0.8);
+
+}
